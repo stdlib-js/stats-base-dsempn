@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dsempn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Calculate the standard error of the mean for a double-precision floating-point strided array using a two-pass algorithm.",
   "license": "Apache-2.0",
   "author": {
