@@ -1,0 +1,42 @@
+{
+  "name": "@stdlib/stats-base-dsempn",
+  "version": "0.0.0",
+  "description": "Calculate the standard error of the mean for a double-precision floating-point strided array using a two-pass algorithm.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dsempn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "standard error of the mean",
+    "standard error",
+    "standard deviation",
+    "estimation",
+    "estimate",
+    "mean",
+    "stdev",
+    "std",
+    "strided",
+    "strided array",
+    "typed",
+    "array",
+    "float64",
+    "double",
+    "float64array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
