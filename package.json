@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dsempn",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Calculate the standard error of the mean for a double-precision floating-point strided array using a two-pass algorithm.",
   "license": "Apache-2.0",
   "author": {
@@ -41,12 +41,12 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-error": "^0.1.1",
-    "@stdlib/math-base-special-sqrt": "^0.1.1",
-    "@stdlib/stats-base-dvariancepn": "^0.1.0",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1",
-    "@stdlib/utils-library-manifest": "^0.1.1",
-    "@stdlib/utils-try-require": "^0.1.1"
+    "@stdlib/assert-is-error": "^0.2.0",
+    "@stdlib/math-base-special-sqrt": "^0.2.0",
+    "@stdlib/stats-base-dvariancepn": "^0.2.0",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.0",
+    "@stdlib/utils-library-manifest": "^0.2.0",
+    "@stdlib/utils-try-require": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.1.1",
@@ -62,7 +62,7 @@
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.1.2"
+    "@stdlib/bench-harness": "^0.2.0"
   },
   "engines": {
     "node": ">=0.10.0",
