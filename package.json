@@ -43,6 +43,12 @@
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.2",
     "@stdlib/math-base-special-sqrt": "^0.2.2",
+    "@stdlib/napi-argv": "^0.2.2",
+    "@stdlib/napi-argv-double": "^0.2.1",
+    "@stdlib/napi-argv-int64": "^0.2.2",
+    "@stdlib/napi-argv-strided-float64array": "^0.2.2",
+    "@stdlib/napi-create-double": "^0.0.2",
+    "@stdlib/napi-export": "^0.2.2",
     "@stdlib/stats-base-dvariancepn": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.2",
