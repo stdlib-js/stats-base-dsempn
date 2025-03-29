@@ -49,7 +49,7 @@
     "@stdlib/napi-argv-strided-float64array": "^0.2.2",
     "@stdlib/napi-create-double": "^0.0.2",
     "@stdlib/napi-export": "^0.2.2",
-    "@stdlib/stats-base-dvariancepn": "^0.2.2",
+    "@stdlib/stats-strided-dvariancepn": "github:stdlib-js/stats-strided-dvariancepn#main",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2"
