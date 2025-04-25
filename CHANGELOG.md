@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-04-25)
+
+<section class="features">
+
+### Features
+
+-   [`5d94f92`](https://github.com/stdlib-js/stdlib/commit/5d94f9213500163957b30ea3ad36df4c141a5d41) - add C ndarray interface and refactor implementation for  `stats/base/dsempn` [(#6785)](https://github.com/stdlib-js/stdlib/pull/6785)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`5d94f92`](https://github.com/stdlib-js/stdlib/commit/5d94f9213500163957b30ea3ad36df4c141a5d41) - **feat:** add C ndarray interface and refactor implementation for  `stats/base/dsempn` [(#6785)](https://github.com/stdlib-js/stdlib/pull/6785) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`4b639f0`](https://github.com/stdlib-js/stdlib/commit/4b639f0bfee0b847a562dca5dd9e79a5c5b090fe) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4df836a`](https://github.com/stdlib-js/stdlib/commit/4df836acfee5e6f359fc5d15a31ee9f6ef4237f0) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`1aa3235`](https://github.com/stdlib-js/stdlib/commit/1aa32350750b13ce35e6cbaf61e48e43dd004548) - **refactor:** update `stats/base/dsempn` native addon from C++ to C [(#4222)](https://github.com/stdlib-js/stdlib/pull/4222) _(by Vivek Maurya)_
@@ -30,10 +41,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vivek Maurya
 
